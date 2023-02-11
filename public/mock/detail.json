@@ -1,0 +1,73 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "故宫博物院(AAAAA景区)",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_600x330_f922b488.jpg",
+    "galleryImgs": [
+      "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_r_800x800_6edd8174.jpg",
+      "http://qimgs.qunarzz.com/piao_qsight_provider_piao_qsight_web/0100j1200046x94ebB936.jpg_r_800x800_691d3591.jpg",
+      "https://qimgs.qunarzz.com/piao_qsight_provider_piao_qsight_web/0102h1200087d62rxDD6F.jpg_r_800x800_617bb29c.jpg"
+    ],
+    "categoryList": [
+      {
+        "title": "门票+内馆",
+        "children": [
+          {
+            "title": "门票+珍宝馆",
+            "children": [
+              {
+                "title": "成人票"
+              },
+              {
+                "title": "学生票"
+              }
+            ]
+          },
+          {
+            "title": "门票+钟表馆",
+            "children": [
+              {
+                "title": "成人票"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "门票+导览",
+        "children": [
+          {
+            "title": "门票+人工讲解服务",
+            "children": [
+              {
+                "title": "成人票"
+              },
+              {
+                "title": "学生票"
+              }
+            ]
+          },
+          {
+            "title": "门票+中高级人工讲解服务",
+            "children": [
+              {
+                "title": "成人票"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "景区门票",
+        "children": [
+          {
+            "title": "成人票"
+          },
+          {
+            "title": "学生票"
+          }
+        ]
+      }
+    ]
+  }
+}
